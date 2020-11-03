@@ -1,4 +1,4 @@
-package com.example.fileshow;
+package com.example.appdisplay;
 
 import android.content.Context;
 import android.content.pm.ApplicationInfo;
